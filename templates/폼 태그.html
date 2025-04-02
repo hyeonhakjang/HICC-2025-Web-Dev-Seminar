@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>폼 태그</title>
+</head>
+<body>
+    <form> 
+        이름: 
+        <input type="text" placeholder = "이름"> 
+        <br><br> 
+        비밀번호: 
+        <input type="password" placeholder = "비밀번호"> 
+        <br><br> 
+        이메일: 
+        <input type="text" placeholder="이메일 아이디"> @ 
+        <select> 
+        <option>gmail.com</option> 
+        <option>naver.com</option> 
+        <option>daum.net</option> 
+        </select> 
+        <br><br> 
+        관심 분야: 
+        <br> 
+        <input type="checkbox"> 코딩 
+        <input type="checkbox"> 디자인 
+        <br><br> 
+        자기소개 : 
+        <br> 
+        <textarea></textarea> 
+        <br><br> 
+        <button type="button" onclick="confirmSubmit()">제출</button> 
+    </form> 
+    <script> 
+    function confirmSubmit() { 
+    if (confirm("정말로 제출하시겠습니까?")) { 
+    // 실제로 제출하는 코드 작성 
+    document.querySelector("form").submit(); 
+    } 
+    } 
+    </script> 
+</body>
+</html>
