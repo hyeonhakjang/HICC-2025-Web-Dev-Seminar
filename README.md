@@ -25,10 +25,10 @@ HICC에서 새싹 개발자들을 위한 웹 개발 세미나를 준비했습니
 
 | 주차  | 일시                   | 장소 | 세미나 주제 및 자료                                                        |
 | ----- | ---------------------- | ---- | ------------------------------------------------------------------ |
-| 1주차 | 3월 12일 (수) 오후 6시 | C710 | 웹 통신과 개발의 이해 [1강 강의록](https://github.com/hyeonhakjang/HICC-2025-Web-Dev-Seminar/blob/main/1%EC%A3%BC%EC%B0%A8%20%EC%9B%B9%ED%86%B5%EC%8B%A0%EA%B3%BC%20%EA%B0%9C%EB%B0%9C%EC%9D%98%20%EC%9D%B4%ED%95%B4.pdf) |
-| 2주차 | 3월 19일 (수) 오후 6시 | C710 | HTML, CSS, JS 기초 [환경설정 설명서] [2강 강의록](https://github.com/hyeonhakjang/HICC-2025-Web-Dev-Seminar/blob/main/2%EC%A3%BC%EC%B0%A8%20HTML%2C%20CSS%2C%20JS%20%EA%B8%B0%EC%B4%88.pdf)                                           |
-| 3주차 | 3월 26일 (수) 오후 6시 | C710 | 웹 프레임워크 [3강 강의록](https://github.com/hyeonhakjang/HICC-2025-Web-Dev-Seminar/blob/main/3%EC%A3%BC%EC%B0%A8%20%EC%9B%B9%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.pdf)                                                |
-| 4주차 | 4월 2일 (수) 오후 6시 | C710 | GIT 사용 실습 [4강 강의록](https://github.com/hyeonhakjang/HICC-2025-Web-Dev-Seminar/blob/main/4%EC%A3%BC%EC%B0%A8%20GIT%20%EC%82%AC%EC%9A%A9%20%EC%8B%A4%EC%8A%B5.pdf)                                          |
-| 5주차 | 5월 7일 (수) 오후 6시 | C710 | MVC 패턴 (MTV) + 데이터베이스 기초 [5강 강의록]                                          |
+| 1주차 | 3월 12일 (수) 오후 6시 | C720 | 웹 통신과 개발의 이해 [1강 강의록](https://github.com/hyeonhakjang/HICC-2025-Web-Dev-Seminar/blob/main/1%EC%A3%BC%EC%B0%A8%20%EC%9B%B9%ED%86%B5%EC%8B%A0%EA%B3%BC%20%EA%B0%9C%EB%B0%9C%EC%9D%98%20%EC%9D%B4%ED%95%B4.pdf) |
+| 2주차 | 3월 19일 (수) 오후 6시 | C720 | HTML, CSS, JS 기초 [환경설정 설명서] [2강 강의록](https://github.com/hyeonhakjang/HICC-2025-Web-Dev-Seminar/blob/main/2%EC%A3%BC%EC%B0%A8%20HTML%2C%20CSS%2C%20JS%20%EA%B8%B0%EC%B4%88.pdf)                                           |
+| 3주차 | 3월 26일 (수) 오후 6시 | C720 | 웹 프레임워크 [3강 강의록](https://github.com/hyeonhakjang/HICC-2025-Web-Dev-Seminar/blob/main/3%EC%A3%BC%EC%B0%A8%20%EC%9B%B9%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.pdf)                                                |
+| 4주차 | 4월 2일 (수) 오후 6시 | C720 | GIT 사용 실습 [4강 강의록](https://github.com/hyeonhakjang/HICC-2025-Web-Dev-Seminar/blob/main/4%EC%A3%BC%EC%B0%A8%20GIT%20%EC%82%AC%EC%9A%A9%20%EC%8B%A4%EC%8A%B5.pdf)                                          |
+| 5주차 | 5월 7일 (수) 오후 6시 | C720 | MVC 패턴 (MTV) + 데이터베이스 기초 [5강 강의록]                                          |
 | 6주차 | 5월 14일 (수) 오후 6시 | C710 | 네트워크 기초 + REST API (1) [6강 강의록]                                          |
 | 7주차 | 5월 21일 (수) 오후 6시 | C710 | REST API (2) [7강 강의록]                                          |
