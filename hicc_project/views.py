@@ -19,5 +19,3 @@ def form_tag_render(request) :
 def layout_tag_render(request) :
     return render(request, '레이아웃 태그.html')
 
-def http_test(request):
-    return HttpResponse("안녕하세요 hicc 세미나에 오신 것을 환영합니다.")
