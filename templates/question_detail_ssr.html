@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>질문 게시글</title>
+</head>
+<body>
+    <h1 id="subject">{{ question.subject }}</h1>
+    <div id="content">{{ question.content }}</div>
+    <p></p>
+
+    <h5>{{ answers|length }}개의 답변이 있습니다.</h5>
+    <div>
+        <ul>
+            {% for answer in answers %}
+                <li class="answer">{{ answer.content }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>
