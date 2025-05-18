@@ -32,3 +32,6 @@ HICC에서 새싹 개발자들을 위한 웹 개발 세미나를 준비했습니
 | 5주차 | 5월 7일 (수) 오후 6시 | C720 | MVC 패턴 (MTV) + 데이터베이스 기초 [5강 강의록](https://github.com/hyeonhakjang/HICC-2025-Web-Dev-Seminar/blob/main/5%EC%A3%BC%EC%B0%A8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EC%B4%88%20%2B%20MVC%20%ED%8C%A8%ED%84%B4.pdf)                                          |
 | 6주차 | 5월 14일 (수) 오후 6시 | C710 | 네트워크 기초 + REST API (1) [6강 강의록]                                          |
 | 7주차 | 5월 21일 (수) 오후 6시 | C710 | REST API (2) [7강 강의록]                                          |
+
+## 영상
+
