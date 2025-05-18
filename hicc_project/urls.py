@@ -16,7 +16,7 @@ Including another URLconf
 """
 
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
 from hicc_project.views import text_tag_render, html_test_render, image_tag_render, form_tag_render, table_tag_render, \
     layout_tag_render
 
@@ -28,4 +28,5 @@ urlpatterns = [
     path('form_tag/', form_tag_render),
     path('table_tag/', table_tag_render),
     path('layout_tag/', layout_tag_render),
+    path('', include('hicc_app.urls'))
 ]
