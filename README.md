@@ -33,5 +33,4 @@ HICC에서 새싹 개발자들을 위한 웹 개발 세미나를 준비했습니
 | 6주차 | 5월 14일 (수) 오후 6시 | C710 | REST API (1) [6강 강의록](https://github.com/hyeonhakjang/HICC-2025-Web-Dev-Seminar/blob/main/6%EC%A3%BC%EC%B0%A8%20REST%20API%20(1).pdf) [6강 영상] (https://youtu.be/_kC3jD5yvlk) (https://youtu.be/fGD9zLnbr2g)                                         |
 | 7주차 | 5월 21일 (수) 오후 6시 | C710 | REST API (2) [7강 강의록]                                          |
 
-## 영상
 
